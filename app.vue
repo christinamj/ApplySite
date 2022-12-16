@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>{{ this.page.title }}</p>
+    <p>Test</p>
   </div>
 </template>
 
